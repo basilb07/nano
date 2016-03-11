@@ -4,4 +4,4 @@ This is a [Markdown][1] live editor built using [WMD][2] and other open source t
 
 ##Usage##
 
-When you press the *copy markdown* button you'll get the markdown markup wrapped in `markdown` and `p` tags, so you can send it as an email to post@posterous.com to create a new entry for your own blog.
+When you press the *copy markdown* button you'll get the markdown markup wrapped in `markdown` and `p` tags, so you can send it as an email to post@posterous.com to create a new entry for your own blog.line4 added
